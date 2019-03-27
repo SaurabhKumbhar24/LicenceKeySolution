@@ -50,3 +50,10 @@ def solution(S, K):
     return '-'.join(result[::-1])
 
 print(solution("2-4A0r7-4k",3))
+
+"""
+Output
+
+24-A0R-74K
+
+"""
